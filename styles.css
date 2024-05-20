@@ -101,7 +101,8 @@ a {
     flex-direction: column;
     justify-content: center;
     /* align-items: center; */
-    padding: 0 200px;
+    padding: 0 300px;
+    text-align: center;
 }
 
 
@@ -114,7 +115,7 @@ a {
 
 .quote-body p {
     padding-bottom: 20px;
-    padding-right: 20px;
+    padding-right: 30px;
     font-family: 'Roboto', arial;
     text-align: right;
 }
