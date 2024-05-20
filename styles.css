@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+}
+
+
 .header,
 .main-body {
     display: flex;
